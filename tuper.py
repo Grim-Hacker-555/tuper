@@ -47,7 +47,7 @@ def hallo():
     wh1 = ["what is your name ?","what is your name","What is your name"]
     no = ["no","No","NO"]
     i = ["pornhub","pornhub.com"]
-    u = ["yes i heve","yes i heve dog","yes I have"]
+    u = ["yes i have","yes i have dog","yes I have"]
     y = ["hallo Timy","hallo my friend","Hallo my friend","hallo timy","hi tiny","hallo bot","hi bot"]
     gg = ["google","google.com"]
     r = ["what","What","what?","What?","what ?","What ?"]
