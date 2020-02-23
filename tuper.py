@@ -182,7 +182,7 @@ def hallo():
          time.sleep (0.5)
          print (b+ "biy " +q)
          time.sleep (0.7)
-         sys.exit()
+         sys.exit("biy")
     elif w in i :
          time.sleep (0.5)
          print "     YOU in Pornhub hahaha"
