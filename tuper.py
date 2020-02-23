@@ -122,7 +122,7 @@ def hallo():
     elif w in dd :
          time.sleep (1)
          print "---------DDOS---------"
-         ip = raw_input ("  IP Target : ")                                          tuper.py
+         ip = raw_input ("  IP Target : ")
          port = input ("  Port      : ")
          print ("")
          print ("     1 = ip = ***.***.***.***")
