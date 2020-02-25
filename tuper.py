@@ -1,4 +1,5 @@
-import random,os,time,sys,socket
+import random,os,sys,socket
+from time import sleep as ee
 sk = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 from datetime import datetime
 now = datetime.now()
@@ -93,7 +94,7 @@ def hallo():
          time.sleep (0.5)
          os.system("clear")
          time.sleep (0.5)
-         print b+random.choice(["FUCK YOU","Yse fuck you to","fucking your mom","fuck you"])+" "+q
+         print b+random.choice(["FUCK YOU","Yes fuck you to","fucking your mom","fuck you"])+" "+q
     elif w in wh+wh1 :
          time.sleep (0.5)
          print b+ "My name is Timy (Timmy)"
@@ -120,7 +121,7 @@ def hallo():
          time.sleep (0.5)
          print b+ "haha"
     elif w in dd :
-         time.sleep (1)
+         ee (1)
          print "---------DDOS---------"
          ip = raw_input ("  IP Target : ")
          port = input ("  Port      : ")
